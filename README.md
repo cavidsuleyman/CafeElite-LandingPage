@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with MDBoostrap CafeElite-LandingPage.
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Arrow-Game.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/CafeElite-LandingPage.git` <br/>
 > **STEP-2:**  enter the `CafeElite-LandingPage` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
@@ -29,7 +29,8 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen-1.2.PNG)
+![There was a screenshot here](./screen.1.PNG)
+![There was a screenshot here](./screen.1.2.PNG)
 
 
  
