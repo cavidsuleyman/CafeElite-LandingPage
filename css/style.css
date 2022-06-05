@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+.divider{
+    background-color: #fff;
+}
+#book{
+    height: 300px;
+    background-image: url('../img/book.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
